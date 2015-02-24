@@ -1,0 +1,9 @@
+Package: red.dingo.lamo
+Name: lamo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: a4twerks
+Author: a4twerks
+Section: Tweaks
